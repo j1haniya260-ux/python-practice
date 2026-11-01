@@ -1,1 +1,3 @@
-# python-practicePractice scripts while I learn Python
+# python-practice
+
+Practice scripts while I learn Python
